@@ -1,0 +1,7 @@
+outcome_category,definition,evidence_required
+commercial_outcome,Performance against documented sales/revenue/profit expectations.,"Documented pre-release expectations plus comparable realized sales/revenue/profit metrics; distinguish estimates, sell-in, sell-through, revenue, and engagement."
+operational_outcome,"Service shutdown, cancellation, major interruption, or studio closure.",Official shutdown/cancellation statements or reliable reporting; distinguish game shutdown from studio closure.
+critical_reception,Professional critics' evaluation.,"Named review aggregator, platform, score, sample/time, and access date; avoid mixing platforms."
+player_reception,Player evaluation and public sentiment.,"Named platform, score/review count, sampling window, moderation/bot concerns, and limits of representativeness."
+development_outcome,Documented production or organizational problems.,"Developer statements, credible reporting, postmortems, regulatory filings, or interviews; label interpretations separately."
+lifecycle_outcome,Long-term evolution of a game/service.,"Dated milestones for content, engagement, support, monetization, and active development; do not collapse a multi-year lifecycle into one verdict."

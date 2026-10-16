@@ -1,0 +1,14 @@
+ANNUAL SALES RESEARCH VALIDATION
+Pilot year: 2025
+Research file: C:\Users\devyo\Downloads\game-industry-failure-analysis-rebuild\game-industry-failure-analysis-rebuild\data\annual_sales_2025_evidence.csv
+
+STATUS: STRUCTURE CHECK PASSED
+
+Issues:
+- None detected.
+
+Research notes:
+- 7 rows have blank dollar-sales values. Blanks are allowed when exact values are unavailable.
+
+Rows: 7
+Structural validation does not independently verify rankings.

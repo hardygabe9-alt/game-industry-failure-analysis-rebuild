@@ -1,0 +1,29 @@
+game_id,title,release_year,genre,working_outcome,research_role,evidence_note
+GAME0001,Concord,2024,Hero Shooter,Commercial and operational failure,Case study,Sony shut down the game shortly after launch; exact sales are not officially confirmed.
+GAME0002,Anthem,2019,Action RPG / Shooter,Commercial and operational failure,Case study,Service ended in 2026; sales expectations and profitability need stronger direct evidence.
+GAME0003,Helldivers 2,2024,Cooperative Shooter,Commercial success,Comparison candidate,Strong early sales and engagement reported publicly; compile official comparable metrics before final classification.
+GAME0004,Grand Theft Auto V,2013,Open-world action,Commercial success,Commercial benchmark,Take-Two reported more than 210 million units sold-in by FY2025 reporting.
+GAME0005,Minecraft,2011,Sandbox,Commercial success,Commercial benchmark,Add a dated official sales source before using a specific unit total.
+GAME0006,Red Dead Redemption 2,2018,Open-world action,Commercial success,Commercial benchmark,Take-Two reported more than 70 million units sold-in by FY2025 reporting.
+GAME0007,Elden Ring,2022,Action RPG,Commercial success,Commercial benchmark,Official milestone announcement needed for a dated unit total in final analysis.
+GAME0008,Hogwarts Legacy,2023,Action RPG,Commercial success,Commercial benchmark,Use publisher-reported milestone with date and clarify sell-through/sell-in wording.
+GAME0009,Animal Crossing: New Horizons,2020,Life simulation,Commercial success,Commercial benchmark,Nintendo provides official lifetime software sales table; capture a dated value.
+GAME0010,Call of Duty: Infinite Warfare,2016,First-person shooter,Mixed / requires validation,Reception comparison,Critic and audience reception should be measured separately from commercial outcome.
+GAME0011,Cyberpunk 2077,2020,Action RPG,Commercial success after troubled launch,Recovery case,"CD Projekt reported more than 13 million copies purchased through Dec. 20, 2020, net of refunds received by report date."
+GAME0012,Battlefield 2042,2021,First-person shooter,Mixed / requires validation,Recovery / reception case,Do not infer commercial failure from reception alone; seek EA sales and financial disclosures.
+GAME0013,Destiny 2,2017,Live-service shooter,Long-running live service; lifecycle changed,Lifecycle case,"Treat launch, expansions, player engagement, and later development changes as separate periods."
+GAME0014,Destiny 2: Lightfall,2023,Live-service expansion,Critical / player reception setback,Sub-case,Bungie acknowledged Lightfall missed quality expectations in 2024; this is not proof of franchise-wide commercial failure.
+GAME0015,Battlefield 6,2025,First-person shooter,Commercial success at launch; profitability unverified,Recent comparison,EA reported 7 million copies sold in the first three days; publisher-reported figure.
+GAME0016,Resident Evil Requiem,2026,Survival horror,Provisional commercial success,Provisional 2026 case,"Capcom reported 8 million units as of June 30, 2026; year remains incomplete."
+GAME0017,Call of Duty: Modern Warfare 2 (2009),2009,First-person shooter,Commercial success,Annual franchise comparison,"Needs annual, region-specific sales source before claiming best-selling game of its year."
+GAME0018,Call of Duty: Black Ops (2010),2010,First-person shooter,Commercial success,Annual franchise comparison,"Needs annual, region-specific sales source before claiming best-selling game of its year."
+GAME0019,Call of Duty: Modern Warfare 3 (2011),2011,First-person shooter,Commercial success,Annual franchise comparison,"Needs annual, region-specific sales source before claiming best-selling game of its year."
+GAME0020,Call of Duty: Black Ops II (2012),2012,First-person shooter,Commercial success,Annual franchise comparison,"Needs annual, region-specific sales source before claiming best-selling game of its year."
+GAME0021,Call of Duty: Advanced Warfare (2014),2014,First-person shooter,Commercial success / verify scope,Annual franchise comparison,Do not use franchise sales assumptions as a substitute for a dated source.
+GAME0022,Call of Duty: Black Ops III (2015),2015,First-person shooter,Commercial success / verify scope,Annual franchise comparison,Do not use franchise sales assumptions as a substitute for a dated source.
+GAME0023,Call of Duty: WWII (2017),2017,First-person shooter,Commercial success / verify scope,Annual franchise comparison,"Need annual, region-specific sales source before claiming best-selling game of its year."
+GAME0024,Call of Duty: Modern Warfare (2019),2019,First-person shooter,Commercial success / verify scope,Annual franchise comparison,"Need annual, region-specific sales source before claiming best-selling game of its year."
+GAME0025,Call of Duty: Black Ops Cold War (2020),2020,First-person shooter,Commercial success / verify scope,Annual franchise comparison,"Need annual, region-specific sales source before claiming best-selling game of its year."
+GAME0026,Call of Duty: Vanguard (2021),2021,First-person shooter,Mixed / requires validation,Annual franchise comparison,Relative performance claims need a consistent market and comparison metric.
+GAME0027,Call of Duty: Modern Warfare II (2022),2022,First-person shooter,Commercial success / verify scope,Annual franchise comparison,"Need annual, region-specific sales source before claiming best-selling game of its year."
+GAME0028,Call of Duty: Black Ops 6 (2024),2024,First-person shooter,Commercial success / verify scope,Annual franchise comparison,Subscription availability complicates unit-sales comparisons; track engagement separately.
