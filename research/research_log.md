@@ -89,7 +89,7 @@ Compare documented commercial expectations and actual outcomes across selected v
 - **Current working classification:** Commercial success / verify scope
 
 - **Documented expectation:**  
-  No quantified pre-release sales target or publicly documented internal financial benchmark has been established in the current source set. A direct expectation-versus-performance comparison remains unresolved.
+Before launch, analysts forecast approximately 2.5–4 million additional Game Pass Ultimate subscriptions, while warning that subscription access might displace traditional premium purchases. These estimates were external analyst forecasts, not disclosed Activision targets. The forecasts are not directly comparable to the publisher's subsequent statement that Black Ops 6 set a record for launch-day Game Pass subscriber additions, because the forecast measured a potential increase over a broader period while the reported result described a launch-day record without disclosing an absolute number.
 
 - **Reported actual outcome:**  
   Microsoft reported record launch-day player participation and Game Pass subscriber additions. It also reported that PlayStation and Steam unit sales were more than 60% higher year over year. Circana's U.S. annual ranking placed Black Ops 6 first in full-game dollar sales for 2024. These results support strong launch performance and a leading U.S. sales position, but do not establish worldwide sales totals or standalone profitability.
@@ -105,6 +105,8 @@ Compare documented commercial expectations and actual outcomes across selected v
 
 - **Limitations and alternative explanations:**  
   Public evidence currently supports strong launch engagement and a No. 1 U.S. full-game dollar-sales ranking for 2024. It does not establish worldwide annual sales rank, total units sold across all platforms, title-specific profitability, or whether internal financial targets were achieved. Year-over-year unit-sales comparisons may be affected by platform, release timing, distribution, and comparison-title differences. Microsoft-wide gaming or subscription results should not be attributed entirely to Black Ops 6 without title-specific evidence.
+  
+  Analyst estimates were forecasts rather than confirmed outcomes. Some projected subscriptions may have represented upgrades from other Game Pass tiers rather than entirely new subscribers. Public disclosures do not establish how many traditional purchases were displaced or the net financial effect of Game Pass inclusion
 
 - **Source IDs:**  
   SRC_BO6_001 — Activision, *Call of Duty: Black Ops 6 Worldwide Reveal*  
